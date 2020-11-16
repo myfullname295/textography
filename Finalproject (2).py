@@ -1,4 +1,3 @@
-#Michael Johnson
 #Python for Humanists
 #12.16.2015
 
